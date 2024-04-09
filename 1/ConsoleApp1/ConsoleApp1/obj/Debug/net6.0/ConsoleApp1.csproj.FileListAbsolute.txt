@@ -1,0 +1,15 @@
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

@@ -1,0 +1,15 @@
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\1 zadacha.exe
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\1 zadacha.deps.json
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\1 zadacha.runtimeconfig.json
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\1 zadacha.dll
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\1 zadacha.pdb
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\1 zadacha.csproj.AssemblyReference.cache
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\1 zadacha.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\1 zadacha.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\1 zadacha.AssemblyInfo.cs
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\1 zadacha.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\1 zadacha.dll
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\1 zadacha.dll
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\1 zadacha.pdb
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\1 zadacha.genruntimeconfig.cache
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\1 zadacha.dll

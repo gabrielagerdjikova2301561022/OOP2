@@ -1,0 +1,15 @@
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\bin\Debug\net6.0\zad4.exe
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\bin\Debug\net6.0\zad4.deps.json
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\bin\Debug\net6.0\zad4.runtimeconfig.json
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\bin\Debug\net6.0\zad4.dll
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\bin\Debug\net6.0\zad4.pdb
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\obj\Debug\net6.0\zad4.csproj.AssemblyReference.cache
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\obj\Debug\net6.0\zad4.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\obj\Debug\net6.0\zad4.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\obj\Debug\net6.0\zad4.AssemblyInfo.cs
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\obj\Debug\net6.0\zad4.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\obj\Debug\net6.0\zad4.dll
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\obj\Debug\net6.0\refint\zad4.dll
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\obj\Debug\net6.0\zad4.pdb
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\obj\Debug\net6.0\zad4.genruntimeconfig.cache
+d:\users\fmi\Desktop\OOP2\1\ConsoleApp1\zad4\obj\Debug\net6.0\ref\zad4.dll
